@@ -1,1 +1,1 @@
-consoleLog("this is awesome"); 
+console.Log("this is cool"); 
